@@ -1,8 +1,3 @@
-//Danny Ho 
-//CPSC 1070-010
-//3/4/2023
-//This is the header file for the queue class
-
 //Create header guards
 //Include cstdlib
 #ifndef QUEUE_H
