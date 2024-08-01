@@ -1,8 +1,3 @@
-//Danny Ho 
-//CPSC 1070-010
-//3/4/2023
-//Driver files for project 3
-
 //Include the Cipher, Queue, and CipherAdvanced header files for this project
 //Include iostream and string 
 #include "Cipher.h"
