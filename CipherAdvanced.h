@@ -1,8 +1,4 @@
-//Danny Ho 
-//CPSC 1070-010
-//3/4/2023
 //This the header file for the child class CipherAdvanced
-
 //Create header guards for the child class CipherAdvanced
 //Include base class cipher,h, vector, string, and set
 #ifndef CIPHER_ADVANCED_H
