@@ -1,9 +1,3 @@
-//Danny Ho 
-//CPSC 1070-010
-//3/4/2023
-//This is the queue.cpp file that will define the functions for the Queue class
-//I use the textbook chapter 19.5 as reference to define the functions
-
 //Include the Queue header file and cstdlib
 #include "Queue.h"
 #include <cstdlib>
