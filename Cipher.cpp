@@ -1,8 +1,4 @@
-//Danny Ho 
-//CPSC 1070-010
-//3/4/2023
 //This is the .cpp file for the cipher class to define the functions
-
 //Include the Cipher and Queue header files
 //Include string and cctype to convert strings to lowercase letters
 #include "Cipher.h"
