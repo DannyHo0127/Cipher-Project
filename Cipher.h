@@ -1,8 +1,4 @@
-//Danny Ho 
-//CPSC 1070-010
-//3/4/2023
 //Header file for cipher class
-
 //Create header guards for the cipher class
 //Include string and queue header file
 #ifndef CIPHER_H
