@@ -1,7 +1,3 @@
-//Danny Ho 
-//CPSC 1070-010
-//3/4/2023
-//This is the CipherAdvance.cpp file, which is the child class of Cipher for the extra credit
 //Include the CipherAdvance.h file
 //Include iostream and fstream to read in files
 //Include algorithm to use the sort key to sort words in alphabetical order
